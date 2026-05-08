@@ -56,7 +56,7 @@ AI              Claude Code · Claude API
 
 ## Open to Opportunities
 
-I'm open to **DevOps, Platform Engineering, and Cloud Native** roles — particularly those involving Kubernetes, cloud infrastructure, and production-grade systems.
+I'm open to **DevOps, SRE, Platform Engineering, and Cloud Native** roles, particularly those involving Kubernetes, cloud infrastructure, and production-grade systems.
 
 📬 [joel.plourde@linux.com](mailto:joel.plourde@linux.com)
 
