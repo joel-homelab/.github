@@ -319,12 +319,6 @@ CD is owned by Argo + Kargo, so CI only **validates and renders** — it never t
 
 ---
 
-## Contact
-
-📬 [joel.plourde@linux.com](mailto:joel.plourde@linux.com)
-
----
-
 <div align="center">
 
 [LinkedIn](https://linkedin.com/in/joel-plourde) · [joel.plourde@linux.com](mailto:joel.plourde@linux.com) · Canada
