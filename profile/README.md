@@ -1,6 +1,6 @@
 <div align="center">
 
-# homelab
+# HomeLab
 
 **Kubernetes homelab for building production-style apps!**  
 **Exploring cloud-native open source projects, and advancing toward Kubestronaut.**
@@ -25,7 +25,7 @@
 [![Grafana](https://img.shields.io/badge/Grafana-orange?&style=plastic&logo=Grafana&logoColor=white)](https://grafana.com/)
 [![Golang](https://img.shields.io/badge/Golang-00ADD8?style=plastic&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAACB0lEQVR42p2PTUtUYRiGr/edM87osRmdUZMhlBkwsSgY+yDd1EIhCrQsqE2bwD/gD3AThBC0KoLCTWW6KGrXJgSnwEJFaaAm03BS0jTT0clR55z3aZFGH7ioa/PADdd98yiAeDxePTo2lm6qjwYXVXmb5fftc7RlK6W0dp2sbKwlS83ik2cjHzLxhobq0cHBtDp66uxtu6LyYnZ2OukGQuWRw401vkgVpSUhBFhdXWElPcHnoRfjvs3cnD9UXp9bmH+sTnZ0Ss2Fy2Q+TtF6aD9HomVmAeTREigDTUGoslCJ+bzuHxwhEAqTun8TT3Vtnc4Xlzacb22WcxVFbMxM66G+Hu3fHdUHCy3dZKPfJwbU+vhrY59odlOJAXcpOXydCISPtXdkXmZdcUXM3d4+AaR7+J3MiogjIqdbWqSmsszcW3alsb0jE4GwDsdiETtYUpR0NBrDpbYzTLx9Q+LhA7qudOEBervv0DPwirTRFAeDRbtieyJWzllzCzCSysGNb4ZowEflzDhVqX4srXn+dC9zx9uYdCtYXgctRlzHcS0AAXwKJjcUqa+C6Bid126RN8LVTxrPF4PXcSm0vQg/sLYuAhRoKATydQfozS5jtMKuDeLNC65Hb0nyu7gduYBn0zDlDQDg3zS4Sv1c4s/F3wqUwq/4pf9vrB3yHYVtNP+M+j9Rbb3wHWmV1F0rvNSTAAAAAElFTkSuQmCC&logoColor=white)](https://go.dev/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
-
+</div>
 ---
 
 # Homelab v0
