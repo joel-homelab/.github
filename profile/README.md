@@ -29,7 +29,7 @@
 
 # Homelab v0
 
-> A GitOps-driven Kubernetes platform on **multi-node Talos Linux**, running as VMs on an Apple Silicon Mac Studio. Built to mirror an enterprise (SAP BTP / Gardener-flavored) stack and to prepare for CKA/CKS.
+> A GitOps-driven Kubernetes platform on **multi-node Talos Linux**, running as VMs on an Apple Silicon Mac Studio. Built to mirror an enterprise stack and to prepare for CNCF certifications.
 
 ---
 
